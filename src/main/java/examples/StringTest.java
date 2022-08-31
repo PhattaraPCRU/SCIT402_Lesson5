@@ -1,5 +1,5 @@
 
-package phattara.scit402_lesson5;
+package examples;
 import java.util.Scanner;
 
 /**

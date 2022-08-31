@@ -8,8 +8,19 @@ Without this configuration present, some functionality in the IDE may be limited
 -->
     <config-data xmlns="http://www.netbeans.org/ns/maven-config-data/1">
         <configurations>
+            <configuration id="CompareTo" profiles=""/>
+            <configuration id="Equals" profiles=""/>
             <configuration id="Product" profiles=""/>
-            <configuration id="String Test" profiles=""/>
+            <configuration id="String" profiles=""/>
+            <configuration id="charAt" profiles=""/>
+            <configuration id="concat" profiles=""/>
+            <configuration id="indexOf" profiles=""/>
+            <configuration id="length" profiles=""/>
+            <configuration id="replace" profiles=""/>
+            <configuration id="startWithendWith" profiles=""/>
+            <configuration id="substring" profiles=""/>
+            <configuration id="toUpperLowerCase" profiles=""/>
+            <configuration id="lastindexOf" profiles=""/>
         </configurations>
     </config-data>
 </project-shared-configuration>
